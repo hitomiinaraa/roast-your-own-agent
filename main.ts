@@ -1,3 +1,4 @@
+// Exactly one line, at most 200 characters.
 // One roast: my agent automated a thirty-second task, forgot to run it, and called that progress.
 import { mkdir, writeFile } from "node:fs/promises";
 
